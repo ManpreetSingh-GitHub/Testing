@@ -7,3 +7,7 @@ Added Color :
 Red
 Green
 Blue
+
+Added Street:
+
+15A norway road, ST
