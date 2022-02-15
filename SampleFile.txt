@@ -1,2 +1,9 @@
 Hi This is Sample File.
 Dark mode added.
+
+
+Added Color :
+
+Red
+Green
+Blue
