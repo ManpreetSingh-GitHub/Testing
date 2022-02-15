@@ -5,9 +5,9 @@ Dark mode added.
 Added Color :
 
 Red
-Green
+Green Apple
 Blue
 
 Added Street:
 
-15A norway road, ST
+15A norway road, Street
